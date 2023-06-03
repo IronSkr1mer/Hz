@@ -14,6 +14,7 @@ public class Test
         System.out.println(a + "-" + b + "=" + f );
         System.out.println(a + "*" + b + "=" + g );
         System.out.println(a + "/" + b + "=" + h );
+        System.out.println("DA");
 
 
     }
