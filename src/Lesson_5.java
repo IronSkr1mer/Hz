@@ -8,9 +8,11 @@ public class Lesson_5
 
         if (a < b) {
             System.out.println(a + " < " + b);
-        } else if (b < a) {
+        }
+        else if (b < a) {
             System.out.println(a + " > " + b);
-        } else {
+        }
+        else {
             System.out.println(a + " = " + b);
         }
     }
